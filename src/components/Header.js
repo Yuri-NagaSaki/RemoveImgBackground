@@ -214,16 +214,16 @@ bg remove hd"/>
 <meta  name="description"
 content="Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. Remove background from image automatically online free. Create transparent background, change to new bg, download high-resolution images."
 />
-<title>Background removal Ai Web App</title>
+<title>Remove Image Background</title>
 </Helmet>
         <header className="text-white text-center">
           <img
             alt="Logo pic"
-            src="https://i.imgtg.com/2022/03/27/bSvpC.jpg"
+            src="https://i.imgtg.com/2022/06/01/nJmSG.png"
             width="50%"
             className="mb-4"
           />
-          <h1>Background Removal Web App</h1>
+          <h1>Remove Image Background</h1>
           <p className="lead mb-0">Fast, simple and great performance.</p>
         </header>
       </div>
