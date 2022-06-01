@@ -51,5 +51,5 @@ If you have any feedback, please contact us at sayyikue@gmail.com
   
 
 ## Thanks
-[remove.bg](https://remove.bg/)
-[vercel](https://vercel.com/)
+- [remove.bg](https://remove.bg/)
+- [vercel](https://vercel.com/)
