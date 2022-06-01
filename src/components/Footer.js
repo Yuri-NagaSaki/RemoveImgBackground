@@ -12,7 +12,7 @@ export default class Footer extends Component {
 <ul className="footer__nav">
     <li className="nav__item">
       <h2 className="nav__title text-center">How to use RemoveImgBackground?</h2>
-      <p className="text-center"> Remove image backgrounds automatically in 5 seconds with just one click. The quickest way for new users working on a PC and Mac is to navigate to this site in your browser, then: Click on choose file and click on remove background.</p>
+      <p className="text-center"> Remove image backgrounds automatically in 5 seconds with just one click.Click on choose file and click on remove background.</p>
     </li>
   </ul>
 <div className="container">
