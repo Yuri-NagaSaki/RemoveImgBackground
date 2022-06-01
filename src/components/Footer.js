@@ -11,16 +11,16 @@ export default class Footer extends Component {
 <div className="main-footer widgets-dark typo-light">
 <ul className="footer__nav">
     <li className="nav__item">
-      <h2 className="nav__title text-center">How to use removeai App?</h2>
-      <p className="text-center"> Remove image backgrounds automatically in 5 seconds with just one click. The quickest way for new users working on a PC and Mac is to navigate to removeai.com in your browser, then: Click on choose file and click on remove background.</p>
+      <h2 className="nav__title text-center">How to use RemoveImgBackground?</h2>
+      <p className="text-center"> Remove image backgrounds automatically in 5 seconds with just one click. The quickest way for new users working on a PC and Mac is to navigate to this site in your browser, then: Click on choose file and click on remove background.</p>
     </li>
   </ul>
 <div className="container">
 <div className="row">
 <div className="col-md-6 col-sm-6 col-md-3">
 <div className="widget subscribe no-box">
-<h5 className="widget-title">Remove-AI<span></span></h5>
-<p>Remove-ai is cloud-based tool and a one-click free solution to remove backgrounds 100% automatically.</p>
+<h5 className="widget-title">RemoveImgBackground<span></span></h5>
+<p>RemoveImgBackground is cloud-based tool and a one-click free solution to remove backgrounds 100% automatically.</p>
 </div>
 </div>
 
