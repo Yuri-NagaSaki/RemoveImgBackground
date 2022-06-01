@@ -12,12 +12,12 @@ With the this Background Removal Tool you can simply remove the image background
 
 ## Demo
 
-Live [here](http://removeai.epizy.com/).
+Live [here](https://remove-img-background.vercel.app/).
 
 
 ## License
 
-[MIT](https://remove-img-background.vercel.app/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Installation
