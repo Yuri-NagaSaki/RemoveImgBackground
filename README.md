@@ -25,7 +25,7 @@ Live [here](https://remove-img-background.vercel.app/).
 In the project directory, you can run:
 
 ```bash 
-npm install
+yarn install
 
 ```
 
@@ -34,7 +34,7 @@ npm install
 
 In the project directory, you can run:
 ```bash
-  npm start
+  yarn start
 ```
 
 
