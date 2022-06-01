@@ -30,7 +30,8 @@ yarn install
 ```
 
 ## Run it on your computer
-
+You must get your own API key from [remove.bg](https://remove.bg/).
+And take the API key in your project directory.(src/components/RemoveBackground.js)
 
 In the project directory, you can run:
 ```bash
