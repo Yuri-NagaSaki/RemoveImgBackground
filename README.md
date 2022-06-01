@@ -17,7 +17,7 @@ Live [here](http://removeai.epizy.com/).
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://remove-img-background.vercel.app/)
 
 
 ## Installation
