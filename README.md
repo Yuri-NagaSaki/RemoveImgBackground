@@ -46,7 +46,7 @@ In the project directory, you can run:
 
 ## FeedBack
 
-If you have any feedback, please contact us at sayyikue@gmail.com
+If you have any feedback, please contact me at sayyikue@gmail.com
 
   
 
