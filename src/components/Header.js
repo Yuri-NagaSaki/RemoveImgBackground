@@ -1,17 +1,14 @@
-import React, { Component } from "react";
-import './RemoveBackground.js';
-import {Helmet} from 'react-helmet';
-
-
-
+import React, { Component } from 'react'
+import './RemoveBackground.js'
+import { Helmet } from 'react-helmet'
 
 export default class Header extends Component {
-  render() {
-    return (
-      <div>
-        <Helmet>
-<meta 
-keyword="a remove bg
+	render() {
+		return (
+			<div>
+				<Helmet>
+					<meta
+						keyword="a remove bg
 back ground erase
 back ground image remover
 back ground remove bg
@@ -210,24 +207,20 @@ background eraser for free
 remove background manually
 auto background remover online free
 bg remove background video
-bg remove hd"/>
-<meta  name="description"
-content="Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. Remove background from image automatically online free. Create transparent background, change to new bg, download high-resolution images."
-/>
-<title>Remove Image Background</title>
-</Helmet>
-        <header className="text-white text-center">
-          <img
-            alt="Logo pic"
-            src="https://i.imgtg.com/2022/06/01/nJmSG.png"
-            width="50%"
-            className="mb-4"
-          />
-          <h1>Remove Image Background</h1>
-          <p className="lead mb-0">Fast, simple and great performance.</p>
-        </header>
-      </div>
-    );
-  }
+bg remove hd"
+					/>
+					<meta
+						name="description"
+						content="Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. Remove background from image automatically online free. Create transparent background, change to new bg, download high-resolution images."
+					/>
+					<title>Remove Image Background</title>
+				</Helmet>
+				<header className="text-white text-center">
+					<img alt="Logo pic" src="https://i.imgtg.com/2022/06/15/18irc.png" width="50%" className="mb-4" />
+					<h1>Remove Image Background</h1>
+					<p className="lead mb-0">Fast, simple and great performance.</p>
+				</header>
+			</div>
+		)
+	}
 }
-
