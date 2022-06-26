@@ -41,7 +41,7 @@ In the project directory, you can run:
 
 ## Used Technologies
 
- React, Redux
+ React, Redux, JS
 
 
 ## FeedBack
